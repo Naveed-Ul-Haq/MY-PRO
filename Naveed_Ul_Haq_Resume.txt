@@ -1,0 +1,28 @@
+
+Naveed Ul Haq
+Senior Project Manager
+
+SUMMARY
+Senior Project Manager with 10+ years of experience leading digital transformation and software delivery initiatives. Proven strengths in Agile adoption, stakeholder alignment, vendor management, and delivering projects on scope, schedule, and budget.
+
+CORE SKILLS
+- Program & Project Planning
+- Stakeholder & Vendor Management
+- Agile & Scrum Coaching
+- Budgeting, Risk & Change Management
+- JIRA, Confluence, MS Project, Azure DevOps
+- Basic SQL and Dashboarding
+
+EXPERIENCE (HIGHLIGHTS)
+- Led enterprise migration program reducing infrastructure costs by 22%.
+- Implemented Agile at scale across 6 product teams improving delivery cadence by 35%.
+- Delivered customer portal integration with CRM & payment systems achieving 4.6/5 pilot satisfaction.
+
+EDUCATION & CERTIFICATIONS
+- Bachelor's degree (relevant field) — (Placeholder)
+- Certified ScrumMaster (CSM) — (Placeholder)
+- PMP — (If applicable)
+
+CONTACT
+Email: naveed@example.com (placeholder)
+LinkedIn: linkedin.com/in/naveed-ul-haq (placeholder)
